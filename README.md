@@ -128,5 +128,5 @@ There are some steps for creating the Binary Search Tree.
 </ul>
 Final Version of the tree
 
-<br><p align="center">![Alt Text](binary-search-tree.png) </p>
+<br><p align="center">![binary-search-tree.png](https://github.com/yldzgzm/Sorting-and-Searching-Algorithms/blob/main/binary-search-tree.PNG) </p>
 
