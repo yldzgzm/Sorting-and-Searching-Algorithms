@@ -69,7 +69,7 @@ Then, it sorts every little piece and unites them as sorted.
 ) </p>
 **example:**
 <br> [16,11,21,8,12,22] Sort the array with Merge Sort
-<br><p align="center">![Alt Text](merge-example.png) </p>
+<br><p align="center">![merge-example.png](https://github.com/yldzgzm/Sorting-and-Searching-Algorithms/blob/main/merge-example.PNG) </p>
 
 ### 3) Quick Sort
 When we sort an array with Quick Sort, the algorithm picks a random number named "pivot" as an example.
