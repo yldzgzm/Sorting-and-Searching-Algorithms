@@ -1,13 +1,13 @@
-#Sorting-and-Searching-Algorithms
+# Sorting-and-Searching-Algorithms
 Some searching and sorting methods are explained with examples.
 <br>
 
-##Sorting
+## Sorting
 Sorting is the action of ordering the numbers from less to most.
 There are several methods to sort series. They are separated from each other
 depending on the way we sort and time complexities.
 <br>
-##Time Complexity
+## Time Complexity
 Time Complexity measures the performance of the algorithms by using time. The performance
 may depend on both series's lineup and the sorting's type.
 Consider you have a series that is not sorted. We are looking for a number.
@@ -82,7 +82,7 @@ as subarrays and they have their pivot. That operation continues after the array
 <br> Worst Case:n^2
 <br><p align="center">![Alt Text](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
 
-##Searching
+## Searching
 Searching is the action of searching a wanted number in the array. There are some searching algorithms
 to find a number we want. Time complexity may depend on both the unsorted array's lineup and the algorithm's type.
 ###1) Linear Search
@@ -93,7 +93,7 @@ integer on the array. So, for an array that's size is n, the time complexity wil
 When we consider that situation, the Time Complexity of the Worst Case is n.
 <br><p align="center">![Alt Text](https://i.pinimg.com/originals/5a/9a/42/5a9a4231aa995d2bec0781c6972f6032.gif
 ) </p>
-###2) Binary Search
+### 2) Binary Search
 That searching algorithm sorts the unsorted array before searching. After sorting the array
 divides the array into 2. It looks at the index that is placed in the middle of the array.
 If the number is greater than the middle index, the algorithm will not search the number left part of the middle index.
